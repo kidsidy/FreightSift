@@ -11,6 +11,21 @@
 
 ---
 
+## Screenshots
+
+### Load Browser
+![FreightSift Load Browser](screenshot.png)
+
+### Analyzer Form
+![FreightSift Analyzer](screenshot1.png)
+
+### GO/NO-GO Verdict
+![FreightSift Verdict](screenshot2.png)
+![FreightSift Verdict](screenshot3.png)
+
+
+---
+
 ## What It Does
 
 FreightSift helps truck drivers and dispatchers make faster, smarter load 
